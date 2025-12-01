@@ -32,7 +32,6 @@ WartemProjectHub is a centralized platform for managing and showcasing various p
 
 ## Deployment
 This application is deployed and accessible at the following URLs:
-- [https://wartem.xyz](https://wartem.xyz)
 - [https://9jh73c-5000.csb.app/](https://9jh73c-5000.csb.app/)
 
 You can visit these links to interact with the live versions of the application.
